@@ -1,8 +1,12 @@
-## hello,  I'm xYLiu. 🌞
+## Hello,  I'm xYLiu. 🌞
 🔭   I'm currently participating in some open-source projects and preparing for work.
+
 🌱   I'm interested in Java & Golang & Python & AI.
+
 🍃   I'm learning and exploring Automated Test & NebulaGraph & k8s.
+
 ❤️   I like eating 😍, coding 💻, playing 🏸 and footaball ⚽, sleeping in 🛌.
+
 💬   Be free to ask me about anything here.
 
 
