@@ -1,4 +1,4 @@
-## Hello,  I'm xYLiu. 🌞
+## Hello,  I'm RachelLiu. 🌞
 🔭   I'm currently participating in some open-source projects and preparing for work.
 
 🌱   I'm interested in Java & Python & AI.
