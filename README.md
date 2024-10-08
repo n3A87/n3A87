@@ -1,7 +1,7 @@
 ## Hello,  I'm RachelLiu. 🌞
 🔭   I'm currently participating in some open-source projects and preparing for work.
 
-🌱   I'm interested in Java & Python & AI.
+🌱   I'm interested in Testing & Java & AI.
 
 🍃   I'm learning and exploring Automated Test & NebulaGraph & k8s.
 
